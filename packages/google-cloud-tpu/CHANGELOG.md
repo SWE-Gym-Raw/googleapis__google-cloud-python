@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-tpu-v1.20.0...google-cloud-tpu-v1.21.0) (2025-01-10)
+
+
+### Features
+
+* [google-cloud-tpu] Add UNKNOWN to TPU node state, This state will be used to prevent a node from being marked as READY during diagnose after it has failed repair ([#13429](https://github.com/googleapis/google-cloud-python/issues/13429)) ([9adc081](https://github.com/googleapis/google-cloud-python/commit/9adc081395d805241602aaac71711576dc9340c0))
+
 ## [1.20.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-tpu-v1.19.1...google-cloud-tpu-v1.20.0) (2024-12-12)
 
 
